@@ -41,7 +41,4 @@ Ticket management system built with HTML, CSS and JavaScript.
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
 ---
-📊 GitHub Stats
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilvaSupportSolutions&show_icons=true&theme=dark&hide_border=true)
----
 > 💬 *"Always focused on solving problems and delivering the best experience to the user."*
