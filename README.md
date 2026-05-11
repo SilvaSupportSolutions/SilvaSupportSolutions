@@ -37,8 +37,7 @@ Ticket management system built with HTML, CSS and JavaScript.
 👉 View project
 ---
 📫 Contact
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
+- 💼 [LinkedIn](https://linkedin.com/in/christianftech)
+- 📧 [contatochristianfsilva@gmail.com](mailto:christianfreitas2006@hotmail.com)
 ---
 > 💬 *"Always focused on solving problems and delivering the best experience to the user."*
