@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%"/>
+</p>
+
+<h1 align="center">Christian Silva</h1>
+
+<p align="center">
+IT Support • Service Desk • Technical Support
+</p>
+
+---
+
+## About Me
+
 # Hello, I'm Christian Silva
 
 IT Support and Administrative Professional transitioning into Technology and Software Development.
