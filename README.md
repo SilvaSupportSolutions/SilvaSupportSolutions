@@ -1,43 +1,75 @@
-Hi, I'm Christian Silva 👋
-🖥️ IT Support Technician | Help Desk & Service Desk  
-📍 Serra, ES — Brazil  
-🎓 Studying Systems Analysis and Development  
-🌐 English: Intermediate (B2)
+# Hello, I'm Christian Silva
+
+IT Support and Administrative Professional transitioning into Technology and Software Development.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+Focused on:
+- IT Support
+- Service Desk
+- Technical Support
+- Customer Support
+- Front-end Development
+- AI Quality & Data Annotation
+
 ---
-About Me
-IT Support professional with experience in remote and on-site technical support, troubleshooting and user assistance.  
-I enjoy solving problems, helping users and making technology work smoothly for people.  
-Currently studying ADS and expanding my skills in front-end development.
+
+## Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- SAP
+- TOTVS Protheus
+- Microsoft 365
+- Google Workspace
+- Slack
+- Microsoft Teams
+- Trello
+
 ---
-🛠️ Skills & Tools
-Support & Infrastructure
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat&logo=microsoft&logoColor=white)
-![Remote Support](https://img.shields.io/badge/Remote%20Support-009688?style=flat)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Network-informational?style=flat)
-Tools & Platforms
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-ERP-blue?style=flat)
-Development (learning)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| Password Reset Simulator | IT support simulation for account recovery |
+| IT Help Desk Dashboard | Ticket and SLA management system |
+| Asset Management System | Corporate hardware inventory system |
+| Weather App | Weather API integration project |
+
 ---
-💼 Experience
-🔧 IT Support Technician — Freelancer (2023 – 2024)
-🤖 AI Data & Content Specialist — Freelancer (2022 – 2026)
-🏢 Administrative Assistant — Grupo Boticário (2024 – 2025)
-🏥 Administrative Assistant — Unimed Vitória (2020 – 2023)
+
+## Currently Learning
+
+- React.js
+- Technical Support
+- Service Desk Operations
+- Active Directory Basics
+- IT Infrastructure
+
 ---
-📂 Projects
-🎫 Support Desk Simulation  
-Ticket management system built with HTML, CSS and JavaScript.  
-👉 View project
+
+## Career Goals
+
+Currently seeking opportunities in:
+- IT Support
+- Service Desk
+- Technical Support
+- Customer Support
+- Junior Front-end Development
+- AI Quality / Data Annotation
+
 ---
-📫 Contact
-- 💼 [LinkedIn](https://linkedin.com/in/christianftech)
-- 📧 [contatochristianfsilva@gmail.com](mailto:christianfreitas2006@hotmail.com)
----
-> 💬 *"Always focused on solving problems and delivering the best experience to the user."*
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/christianftech
+- Email: contatochristianfsilva@gmail.com
