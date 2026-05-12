@@ -54,10 +54,10 @@ Focused on:
 
 | Project | Description |
 |---|---|
-| Password Reset Simulator | IT support simulation for account recovery |
-| IT Help Desk Dashboard | Ticket and SLA management system |
-| Asset Management System | Corporate hardware inventory system |
-| Weather App | Weather API integration project |
+| Active Directory User Simulator | Simulation of common IT support tasks such as user management, account status, and access control. |
+| Support Desk Simulation | Service desk simulation focused on ticket handling, support workflow, and customer assistance. |
+| Password Reset Simulator | IT support simulation for password recovery and account access scenarios. |
+| Simple Task Manager | Task management application focused on organization, status control, and productivity. |
 
 ---
 
